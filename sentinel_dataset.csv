@@ -1,0 +1,169 @@
+timestamp,app_name,foreground_app,upload_bytes,screen_state,mic_permission,camera_permission,risk_score,risk_level,detection_reason
+2023-10-27T10:00:00Z,Chrome,true,150200,ON,false,false,5,LOW,Normal behavior
+2023-10-27T10:05:00Z,Instagram,true,850000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T10:10:00Z,WhatsApp,false,2500,ON,true,false,10,LOW,Normal background sync
+2023-10-27T10:15:00Z,System Update Service,false,5242880,OFF,false,false,45,MEDIUM,High background upload while screen OFF
+2023-10-27T10:20:00Z,YouTube,true,120000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T10:25:00Z,Flashlight Pro,false,500,OFF,true,true,65,HIGH,Background app with Microphone and Camera access
+2023-10-27T10:30:00Z,TikTok,true,2500000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T10:35:00Z,Weather Widget,false,1500000,OFF,false,false,40,MEDIUM,Suspicious background data transfer
+2023-10-27T10:40:00Z,Telegram,false,5000,ON,true,false,10,LOW,Normal background sync
+2023-10-27T10:45:00Z,Hidden Spy Agent,false,10485760,OFF,true,true,95,HIGH,Critical: Background surveillance and data exfiltration
+2023-10-27T10:50:00Z,Chrome,true,45000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T10:55:00Z,Instagram,false,1200,ON,true,true,25,LOW,Passive background state
+2023-10-27T11:00:00Z,Unknown App 402,false,3000000,OFF,false,false,42,MEDIUM,High background upload while screen OFF
+2023-10-27T11:05:00Z,WhatsApp,true,20000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T11:10:00Z,Calculator Plus,false,500000,ON,true,false,35,MEDIUM,Utility app with unusual microphone access
+2023-10-27T11:15:00Z,YouTube,false,15000,OFF,false,false,5,LOW,Normal behavior
+2023-10-27T11:20:00Z,TikTok,false,2000,OFF,true,true,30,MEDIUM,Social app with background camera/mic permissions
+2023-10-27T11:25:00Z,File Explorer,false,8000000,OFF,false,false,50,MEDIUM,Massive data transfer while screen OFF
+2023-10-27T11:30:00Z,Chrome,true,120000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T11:35:00Z,Call Recorder X,false,10000,OFF,true,false,70,HIGH,Potential unauthorized background audio recording
+2023-10-27T11:40:00Z,Instagram,true,500000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T11:45:00Z,Telegram,true,30000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T11:50:00Z,Smart Cleaner,false,4500000,OFF,false,false,48,MEDIUM,Background data spike from utility app
+2023-10-27T11:55:00Z,WhatsApp,false,1500,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T12:00:00Z,YouTube,true,5000000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T12:05:00Z,Music Player,false,0,OFF,true,false,30,MEDIUM,Background app holding Microphone permission
+2023-10-27T12:10:00Z,TikTok,true,1200000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T12:15:00Z,Photo Editor,false,6000000,OFF,false,true,55,MEDIUM,Background upload with Camera permission
+2023-10-27T12:20:00Z,Chrome,true,30000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T12:25:00Z,Android System,false,5000,ON,false,false,0,LOW,Normal system activity
+2023-10-27T12:30:00Z,Instagram,true,200000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T12:35:00Z,Battery Saver Pro,false,2500000,OFF,false,false,45,MEDIUM,Suspicious background data activity
+2023-10-27T12:40:00Z,WhatsApp,true,10000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T12:45:00Z,Voice Notes,false,5000,OFF,true,false,30,MEDIUM,Background app with Microphone access
+2023-10-27T12:50:00Z,YouTube,true,100000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T12:55:00Z,Game App,false,15000000,OFF,true,true,90,HIGH,Exfiltration: High background upload + Mic/Camera
+2023-10-27T13:00:00Z,TikTok,true,800000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T13:05:00Z,Telegram,false,2000,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T13:10:00Z,Chrome,true,50000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T13:15:00Z,Live Wallpaper,false,2000000,OFF,false,false,38,MEDIUM,Unusual data usage for wallpaper app
+2023-10-27T13:20:00Z,Instagram,true,450000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T13:25:00Z,WhatsApp,false,5000,ON,true,false,10,LOW,Normal behavior
+2023-10-27T13:30:00Z,YouTube,true,150000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T13:35:00Z,Security Plugin,false,8500000,OFF,false,false,52,MEDIUM,High background data on inactive screen
+2023-10-27T13:40:00Z,TikTok,true,2000000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T13:45:00Z,Note Taking,false,500,OFF,true,false,30,MEDIUM,Background app holding Microphone permission
+2023-10-27T13:50:00Z,Chrome,true,10000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T13:55:00Z,Unknown Service,false,12000000,OFF,true,false,85,HIGH,Background surveillance detected: Mic + High Upload
+2023-10-27T14:00:00Z,WhatsApp,true,25000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T14:05:00Z,Instagram,false,1500,OFF,true,true,25,LOW,Normal background state
+2023-10-27T14:10:00Z,YouTube,true,60000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T14:15:00Z,Maps,true,15000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T14:20:00Z,TikTok,true,100000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T14:25:00Z,Weather App,false,1800000,OFF,false,false,42,MEDIUM,Suspicious data usage while screen OFF
+2023-10-27T14:30:00Z,Telegram,true,5000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T14:35:00Z,Flashlight,false,200,OFF,true,false,60,HIGH,Background Mic access by non-sensitive app
+2023-10-27T14:40:00Z,Chrome,true,80000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T14:45:00Z,Instagram,true,300000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T14:50:00Z,WhatsApp,false,800,ON,true,false,10,LOW,Normal behavior
+2023-10-27T14:55:00Z,System Core,false,3000000,OFF,false,false,40,MEDIUM,Background data transfer spike
+2023-10-27T15:00:00Z,YouTube,true,200000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T15:05:00Z,Recorder Pro,false,1000,OFF,true,false,30,MEDIUM,Background app holding Microphone permission
+2023-10-27T15:10:00Z,TikTok,true,400000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T15:15:00Z,Cleaner Tool,false,9000000,OFF,false,false,55,MEDIUM,High background upload detected
+2023-10-27T15:20:00Z,Chrome,true,15000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T15:25:00Z,Instagram,false,2000,OFF,true,true,25,LOW,Normal behavior
+2023-10-27T15:30:00Z,WhatsApp,true,12000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T15:35:00Z,Suspicious App X,false,15728640,OFF,true,true,100,HIGH,Critical: Surveillance and data exfiltration
+2023-10-27T15:40:00Z,YouTube,true,800000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T15:45:00Z,Telegram,false,1000,ON,true,false,10,LOW,Normal behavior
+2023-10-27T15:50:00Z,TikTok,true,150000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T15:55:00Z,File Manager,false,2200000,OFF,false,false,43,MEDIUM,Background upload while screen OFF
+2023-10-27T16:00:00Z,Chrome,true,50000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T16:05:00Z,Instagram,true,200000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T16:10:00Z,WhatsApp,false,500,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T16:15:00Z,Audio Streamer,false,5000,OFF,true,false,30,MEDIUM,Background Microphone access
+2023-10-27T16:20:00Z,YouTube,true,1000000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T16:25:00Z,Proxy Service,false,7000000,OFF,false,false,50,MEDIUM,Suspicious data usage on inactive device
+2023-10-27T16:30:00Z,TikTok,true,500000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T16:35:00Z,Camera Filter,false,100,OFF,false,true,30,MEDIUM,Background app holding Camera permission
+2023-10-27T16:40:00Z,Chrome,true,20000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T16:45:00Z,Instagram,false,1000,ON,true,true,25,LOW,Normal behavior
+2023-10-27T16:50:00Z,WhatsApp,true,5000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T16:55:00Z,Update Manager,false,4000000,OFF,false,false,44,MEDIUM,Background upload spike
+2023-10-27T17:00:00Z,YouTube,true,50000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T17:05:00Z,Music App,false,0,OFF,true,false,30,MEDIUM,Background Mic permission held
+2023-10-27T17:10:00Z,TikTok,true,250000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T17:15:00Z,Suspicious Tracker,false,12582912,OFF,true,true,98,HIGH,Critical background surveillance detected
+2023-10-27T17:20:00Z,Telegram,true,10000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T17:25:00Z,Chrome,true,35000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T17:30:00Z,Instagram,true,600000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T17:35:00Z,WhatsApp,false,200,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T17:40:00Z,YouTube,true,120000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T17:45:00Z,Background Service,false,3500000,OFF,false,false,42,MEDIUM,High background data transfer
+2023-10-27T17:50:00Z,TikTok,true,80000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T17:55:00Z,Dictaphone,false,200,OFF,true,false,30,MEDIUM,Background Microphone access
+2023-10-27T18:00:00Z,Chrome,true,100000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T18:05:00Z,Instagram,false,3000,OFF,true,true,25,LOW,Normal behavior
+2023-10-27T18:10:00Z,WhatsApp,true,15000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T18:15:00Z,System Backup,false,10485760,OFF,false,false,50,MEDIUM,Significant background upload
+2023-10-27T18:20:00Z,YouTube,true,3000000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T18:25:00Z,TikTok,true,200000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T18:30:00Z,Telegram,false,500,ON,true,false,10,LOW,Normal behavior
+2023-10-27T18:35:00Z,Malicious App A,false,18874368,OFF,true,true,100,HIGH,Surveillance: Background record + high upload
+2023-10-27T18:40:00Z,Chrome,true,40000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T18:45:00Z,Instagram,true,150000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T18:50:00Z,WhatsApp,false,1000,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T18:55:00Z,Cloud Sync,false,6000000,OFF,false,false,48,MEDIUM,Background sync while screen OFF
+2023-10-27T19:00:00Z,YouTube,true,500000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T19:05:00Z,TikTok,true,120000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T19:10:00Z,Telegram,true,20000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T19:15:00Z,Suspicious Audio,false,1000,OFF,true,false,75,HIGH,Potential background audio monitoring
+2023-10-27T19:20:00Z,Chrome,true,15000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T19:25:00Z,Instagram,false,1200,OFF,true,true,25,LOW,Normal behavior
+2023-10-27T19:30:00Z,WhatsApp,true,8000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T19:35:00Z,Weather Plus,false,2000000,OFF,false,false,40,MEDIUM,Unusual background data usage
+2023-10-27T19:40:00Z,YouTube,true,100000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T19:45:00Z,TikTok,false,500,OFF,true,true,30,MEDIUM,Background Mic/Camera permissions
+2023-10-27T19:50:00Z,Chrome,true,60000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T19:55:00Z,Data Exfiltrator,false,13631488,OFF,true,false,88,HIGH,Significant background leak + Mic access
+2023-10-27T20:00:00Z,Instagram,true,400000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T20:05:00Z,WhatsApp,false,2000,ON,true,false,10,LOW,Normal behavior
+2023-10-27T20:10:00Z,Telegram,true,15000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T20:15:00Z,Security Tool,false,5500000,OFF,false,false,49,MEDIUM,High background activity detected
+2023-10-27T20:20:00Z,Chrome,true,20000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T20:25:00Z,YouTube,false,1000,OFF,false,false,5,LOW,Normal behavior
+2023-10-27T20:30:00Z,TikTok,true,900000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T20:35:00Z,Spy Cam Pro,false,1048576,OFF,false,true,68,HIGH,Potential background camera surveillance
+2023-10-27T20:40:00Z,Instagram,true,100000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T20:45:00Z,WhatsApp,true,40000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T20:50:00Z,Telegram,false,3000,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T20:55:00Z,Unknown Update,false,9000000,OFF,false,false,55,MEDIUM,Suspicious background data spike
+2023-10-27T21:00:00Z,Chrome,true,12000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T21:05:00Z,YouTube,true,250000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T21:10:00Z,TikTok,true,600000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T21:15:00Z,Background Recorder,false,500,OFF,true,false,72,HIGH,Unauthorized background microphone usage
+2023-10-27T21:20:00Z,Instagram,true,80000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T21:25:00Z,WhatsApp,false,1200,ON,true,false,10,LOW,Normal behavior
+2023-10-27T21:30:00Z,Chrome,true,25000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T21:35:00Z,Data Miner,false,11534336,OFF,true,true,96,HIGH,Critical: Massive exfiltration + surveillance
+2023-10-27T21:40:00Z,YouTube,true,450000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T21:45:00Z,Telegram,true,5000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T21:50:00Z,TikTok,true,1500000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T21:55:00Z,System Optimization,false,3800000,OFF,false,false,45,MEDIUM,High background data upload
+2023-10-27T22:00:00Z,Chrome,true,10000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T22:05:00Z,Instagram,false,1000,OFF,true,true,25,LOW,Normal behavior
+2023-10-27T22:10:00Z,WhatsApp,true,2000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T22:15:00Z,Suspicious Music,false,2000,OFF,true,false,35,MEDIUM,Background app holding Mic permission
+2023-10-27T22:20:00Z,YouTube,true,1000000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T22:25:00Z,TikTok,true,40000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T22:30:00Z,Telegram,false,500,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T22:35:00Z,Tracker Elite,false,9437184,OFF,true,true,92,HIGH,Background surveillance and exfiltration detected
+2023-10-27T22:40:00Z,Chrome,true,20000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T22:45:00Z,Instagram,true,120000,ON,true,true,12,LOW,Normal behavior
+2023-10-27T22:50:00Z,WhatsApp,true,1000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T22:55:00Z,Background Sync Pro,false,5000000,OFF,false,false,47,MEDIUM,High data usage on inactive device
+2023-10-27T23:00:00Z,YouTube,true,500000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T23:05:00Z,TikTok,true,1000000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T23:10:00Z,Telegram,true,5000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T23:15:00Z,Hidden Listener,false,800,OFF,true,false,78,HIGH,Detected background microphone usage
+2023-10-27T23:20:00Z,Chrome,true,15000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T23:25:00Z,Instagram,false,1000,OFF,true,true,25,LOW,Normal behavior
+2023-10-27T23:30:00Z,WhatsApp,true,15000,ON,true,false,8,LOW,Normal behavior
+2023-10-27T23:35:00Z,Malware Service,false,20971520,OFF,true,true,100,HIGH,Critical: Full device exfiltration and surveillance
+2023-10-27T23:40:00Z,YouTube,true,30000,ON,false,false,5,LOW,Normal behavior
+2023-10-27T23:45:00Z,TikTok,true,150000,ON,true,true,15,LOW,Normal behavior
+2023-10-27T23:50:00Z,Telegram,false,1000,OFF,true,false,10,LOW,Normal behavior
+2023-10-27T23:55:00Z,System Task,false,4500000,OFF,false,false,46,MEDIUM,Suspicious background upload spike
